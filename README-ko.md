@@ -98,3 +98,7 @@ python -m pytest
   doi = {10.1145/2037252.2037258}
 }
 ```
+
+## License
+
+MIT. [LICENSE](LICENSE)를 참고하세요.
