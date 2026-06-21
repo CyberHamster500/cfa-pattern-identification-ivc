@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+build/
+.DS_Store
+*.pyc
+*.log
+*.tsbuildinfo
+.codex-remote-attachments/
+local_raw_samples/
